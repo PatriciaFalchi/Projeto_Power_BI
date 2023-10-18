@@ -1,7 +1,7 @@
 ## Projeto Power BI Analyst
 
 Repositório para armazenar o Projeto de Power BI realizado para o BOOTCAMP SANTANDER - DIO.
-O Projeto consiste na realização de um relatório dinâmico, ao qual foram utilizados diversos recursos do Power BI sendo varios tipos de gráficos para a apresentação de dados, produzido no Power BI Desktop e publicado no Power BI Web. 
+O Projeto consiste na realização de um relatório dinâmico, ao qual foram utilizados diversos recursos do Power BI sendo vários tipos de gráficos para a apresentação de dados, produzido no Power BI Desktop e publicado no Power BI Web. 
 
 
 <img src="https://github.com/PatriciaFalchi/Projeto_Power_BI/assets/144163815/05c08f7c-cb26-407f-8748-5ad64cf84901" width="900px" />
