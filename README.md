@@ -5,4 +5,4 @@ O Projeto consiste na realização de um relatório dinâmico, ao qual foram uti
 
 
 ## 🔍 Referências
-Projeto idealizado pela Profª Juliana Zanelatto [GitHub projeto original](https://github.com/julianazanelatto/power_bi_analyst/tree/main/M%C3%B3dulo%202/Desafio%20de%20Projeto)
+Projeto idealizado pela Profª Juliana Mascarenhas [GitHub projeto original](https://github.com/julianazanelatto/power_bi_analyst/tree/main/M%C3%B3dulo%202/Desafio%20de%20Projeto)
